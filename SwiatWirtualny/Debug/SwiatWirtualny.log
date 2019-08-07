@@ -1,0 +1,43 @@
+﻿  Zwierzeta.cpp
+  Zolw.cpp
+  Znak.cpp
+  Wilk.cpp
+  Trawa.cpp
+  Swiat.cpp
+  Rysuj.cpp
+  Rosliny.cpp
+  Ramka.cpp
+  Przycisk.cpp
+  Powiadomienia.cpp
+  Owca.cpp
+  Organizm.cpp
+  Napis.cpp
+  Mlecz.cpp
+  Menu.cpp
+  MAIN.cpp
+  Lis.cpp
+  Jagody.cpp
+  Interface.cpp
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(56): warning C4309: "argument": obcięcie stałej wartości
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(83): warning C4309: "argument": obcięcie stałej wartości
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(60): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: zobacz deklarację „getch”
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(63): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: zobacz deklarację „getch”
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: zobacz deklarację „scanf”
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: zobacz deklarację „scanf”
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(128): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: zobacz deklarację „scanf”
+c:\users\bartosz-pc\desktop\bartek\projekty\projekty semestr 2\po-projekt1\swiatwirtualny\swiatwirtualny\interface.cpp(140): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: zobacz deklarację „fopen”
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Guarana.cpp
+  Czlowiek.cpp
+  Barszcz.cpp
+  Antylopa.cpp
+  Generowanie kodu...
+  SwiatWirtualny.vcxproj -> C:\Users\Bartosz-Pc\Desktop\Bartek\PROJEKTY\PROJEKTY SEMESTR 2\PO-PROJEKT1\SwiatWirtualny\Debug\SwiatWirtualny.exe
+  SwiatWirtualny.vcxproj -> C:\Users\Bartosz-Pc\Desktop\Bartek\PROJEKTY\PROJEKTY SEMESTR 2\PO-PROJEKT1\SwiatWirtualny\Debug\SwiatWirtualny.pdb (Full PDB)
